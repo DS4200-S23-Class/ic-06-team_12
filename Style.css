@@ -1,0 +1,16 @@
+body {
+	font-style: Arial;
+
+}
+
+#frame {
+	width: 500px;
+	height:  500px;
+
+}
+
+#thick_blue {
+	fill: darkblue;
+	border-width: 20px;
+
+}
